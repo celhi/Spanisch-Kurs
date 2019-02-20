@@ -1,0 +1,44 @@
+= Lösung zu Aufgabe 02
+
+.1
+
+¿Dónde `está`, mi libro?
+-- Allí, en el sofá.
+
+```
+Wo ist mein Buch.
+Dort auf dem Sofa.
+```
+.2
+`Yo estoy` muy cansado. Me voy a dormir.
+
+```
+Ich bin müde. Ich gehe schlafen.
+```
+
+.3
+El supermercado `está` en la esquina.
+
+```
+Der Supermarkt ist an der Ecke.
+```
+
+.4
+¿Fernando `está` en casa?
+-- Sí, pero ahora mismo `está` duchándose.
+
+```
+Ist Fernando zu Hause?
+-- Ja, aber jetzt gerade ist er duschen.
+```
+
+.5
+Hola, ¿qué tal? ¿Cómo `estáis` (vosotros)?
+-- Nosotros, muy bien y tú, ¿Comó `estás`?
+-- Muy bien también. Gracias.
+
+```
+Hallo, wie geht's? Wie geht es euch?
+-- Uns geht es sehr gut und wie geht es dir?
+-- Auch sehr gut. Danke.
+```

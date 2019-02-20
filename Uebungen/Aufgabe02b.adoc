@@ -1,0 +1,41 @@
+= Aufgabe 02b
+
+// Listen to the song and transcript what you hear
+
+== Hör dir das Lied an und schreib' auf, was du hörst
+
+
+=== CANCION VENEZUELA
+
+* LLEVO TU LUZ Y TU AROMA EN MI PIEL
+Source: https://www.youtube.com/watch?v=Po7ay5QL_SA
+
+=== Transcript
+
+[verse]
+____
+1.
+_Llevo tu luz_
+Ich trage dein Licht
+
+_y tu aroma en mi piel_
+und deinen Duft auf meiner Haut
+
+_y el cuatro en el corazón_
+und das Cuatro (4-saitiges Instrument) in meinem Herzen
+
+_llevo en mi sangre la espuma del mar_
+Ich habe den Schaum des Meeres (Gischt) im Blut
+
+_y tu horizonte en mis ojos_
+Und deinen Horizont in meinen Augen
+
+2.
+Nol  llevo veino
+y
+
+
+____
+
+
+there is aroma aroma/fragrance, piel is skin, cuatro is the small guitar like instrument, corazon is heart, mar is sea, horizonte is horizon,  en mis ojos is in my eyes

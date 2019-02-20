@@ -1,64 +1,26 @@
 = Aufgabe 02
 
-== Übersetze den folgenden Text ins Deutsche
+== Complete con la forma correcta del verbo estar (y traducir):
 
-=== Songtext
+.1
+¿Dónde \______\_______, mi libro?
 
-.Entre dos Tierras
-****
-e puedes vender
-Cualquier oferta es buena si quieres poder
-Qué fácil es
-Abrir tanto la boca para opinar
-Y si te piensas echar atrás
-Tienes muchas huellas que borrar
+-- Allí, en el sofá.
 
-Déjame
-que yo no tengo la culpa de verte caer
-Si yo no tengo la culpa de verte caer
-Pierdes la fe
-Cualquier esperanza es vana y no sé qué creer
-Pero olvídame,
-que nadie te ha llamado, ya estás otra vez
+.2
+\______\_______ muy cansado. Me voy a dormir.
 
-Déjame
-que yo no tengo la culpa de verte caer
-Si yo no tengo la culpa de ver que
-Entre dos tierras estás
-Y no dejas aire que respirar
-Entre dos tierras estás
-Y no dejas aire que respirar
-Déjalo ya
-No seas membrillo y permite pasar
-Y si no piensas echar atrás
-Tienes mucho barro que tragar
+.3
+El supermercado \______\_______ en la esquina.
 
-Déjame
-que yo no tengo la culpa de verte caer
-Si yo no tengo la culpa de ver que
-Entre dos tierras estás
-Y no dejas aire que respirar
-Entre dos tierras estás
-Y no dejas aire que respirar
+.4
+¿Fernando \______\_______ en casa?
 
-Déjame
-que yo no tengo la culpa de verte caer
-Si yo no tengo la culpa de ver que
-Entre dos tierras estás
-Y no dejas aire que respirar
-Entre dos tierras estás
-Y no dejas aire que respirar
+-- Sí, pero ahora mismo \______\_______ duchándose.
 
----
-_Songwriter:_ Enrique Bunbury / Joaquin Cardiel Gerico / Juan Valdivia Navarro / Pedro Andreu Lapiedra
+.5
+Hola, ¿qué tal? ¿Cómo \______\_______ (vosotros)?
 
-Songtext von Entre dos Tierras © Warner/Chappell Music, Inc, Sony/ATV Music Publishing LLC
+-- Nosotros, muy bien y tú, ¿Comó \______\_______?
 
-_Künstler:_ Héroes del Silencio
-
-_Album:_ Senderos de traición
-
-_Veröffentlicht:_ 1990
-
-_Genre:_ Rock aus Spanien
-****
+-- Muy bien también. Gracia
