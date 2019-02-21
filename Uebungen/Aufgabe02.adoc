@@ -1,5 +1,7 @@
 = Aufgabe 02
 
+link:https://www.ecos-online.de/spanisch-ueben/los-verbos-ser-y-estar[]
+
 == Complete con la forma correcta del verbo estar (y traducir):
 
 .1
